@@ -1,6 +1,6 @@
 {
-	"name": "git@github.com:xandora/script-test.git",
-	"author": "Michael Frank",
+	"name": "git@github.com:",
+	"author": "xandora",
 	"version": "0.0.0",
 	"private": "true",
 	"scripts": {
